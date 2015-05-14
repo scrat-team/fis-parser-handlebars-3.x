@@ -1,0 +1,27 @@
+{
+  "name": "fis-parser-handlebars-3.x",
+  "version": "0.0.1",
+  "description": "a plugin for fis to precompile handlebars v3.x template",
+  "main": "index.js",
+  "dependencies": {
+    "handlebars": "3.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fouber/fis-parser-handlebars.git"
+  },
+  "keywords": [
+    "fis",
+    "parser",
+    "handlebars"
+  ],
+  "author": "fouber <fouber.NET@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fouber/fis-parser-handlebars/issues"
+  },
+  "homepage": "https://github.com/fouber/fis-parser-handlebars"
+}
