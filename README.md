@@ -4,7 +4,7 @@ A parser plugin for fis to precompile handlebars v3.x template.
 
 ### 1. 安装插件：
 
-> npm install -g fis-parser-handlebars
+> npm install -g fis-parser-handlebars-3.x
 
 ### 2. 配置
 
@@ -36,3 +36,6 @@ console.log(html);
 ```
 
 在页面上引入handlebars的 [runtime版本](http://builds.handlebarsjs.com.s3.amazonaws.com/handlebars.runtime-v3.0.3.js) 作为运行时模板引擎框架。
+
+### Demo
+[fis3 use-handlebars-3.x](https://github.com/fex-team/fis3-demo/tree/master/use-handlebars-3.x)
